@@ -1,0 +1,63 @@
+[Desktop Entry]
+Categories=Network;Email;
+Comment=Easy to use email client
+Exec=/usr/bin/deepin-turbo-invoker --type=qt5 deepin-mail %U
+GenericName=Mail
+Icon=deepin-mail
+Keywords=EMail;E-mail;Contact;Addressbook;
+MimeType=message/rfc822;x-scheme-handler/mailto;text/calendar;text/x-vcard;
+Name=Deepin Mail
+StartupNotify=false
+Terminal=false
+Type=Application
+X-Deepin-Vendor=deepin
+
+# Translations:
+# Do not manually modify!
+GenericName[ca]=Correu
+GenericName[cs]=E-mail
+GenericName[es]=Correo
+GenericName[fi]=Sähköposti
+GenericName[fr]=Mail
+GenericName[gl_ES]=Correo electrónico
+GenericName[hr]=Elektronička pošta
+GenericName[hu]=Levelezés
+GenericName[it]=Email
+GenericName[ko]=메일
+GenericName[lt]=Paštas
+GenericName[nl]=E-mail
+GenericName[pl]=Poczta
+GenericName[pt]=Correio
+GenericName[pt_BR]=E-mail
+GenericName[sq]=Postë
+GenericName[sr]=Пошта
+GenericName[tr]=Posta
+GenericName[ug]=خەت
+GenericName[uk]=Пошта
+GenericName[zh_CN]=邮箱
+GenericName[zh_HK]=郵箱
+GenericName[zh_TW]=電郵
+Name[ca]=Correu del Deepin
+Name[cs]=Deepin E-mail
+Name[es]=Correo
+Name[fi]=Deepin Mail
+Name[fr]=Deepin Mail
+Name[gl_ES]=Correo electrónico Deepin
+Name[hr]=Deepin elektronička pošta
+Name[hu]=Deepin Mail
+Name[it]=Deepin Email
+Name[ko]=Deepin 메일
+Name[lt]=Deepin paštas
+Name[nl]=Deepin E-mail
+Name[pl]=Poczta Deepin
+Name[pt]=Correio Deepin
+Name[pt_BR]=deepin E-mail
+Name[sq]=Postë Deepin
+Name[sr]=Дипин Пошта
+Name[tr]=Deepin Posta
+Name[ug]=Deepin خەتدان
+Name[uk]=Пошта Deepin
+Name[zh_CN]=深度邮箱
+Name[zh_HK]=Deepin 郵箱
+Name[zh_TW]=Deepin 電郵
+
